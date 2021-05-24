@@ -1,7 +1,7 @@
 <%--
 ==================== 시작주소 ===================
-localhost:8080/shoppingmall/mg/managerMain.do
-localhost:8080/shoppingmall/index.do
+localhost:8080/16_jsp_mvc2_training_bookShop/mg/managerMain.do
+localhost:8080/16_jsp_mvc2_training_bookShop/index.do
 ===============================================
 
 # context.xml 파일에 커넥션 풀 설정
